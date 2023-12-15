@@ -1,0 +1,16 @@
+{
+    "name": "AI Camera",
+    "description": "Mục mở rộng của xBot cho module AI Camera",
+    "libs": [
+        "xbot_camera_ai.py"
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+        "en": "languages/en.js",
+        "vi": "languages/vi.js"
+    },
+    "poster": "poster.png"
+}
